@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413173912837",
+    "project_id": "fishstore-80e21",
+    "storage_bucket": "fishstore-80e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413173912837:android:ca71e873c9703c11ec536c",
+        "android_client_info": {
+          "package_name": "com.adl.fishstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413173912837-p6p4fm0ipj2ids301apsp674b1d26s9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4J_PWh8vod-9QIZJb5RzQOY4UOT51SAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413173912837-p6p4fm0ipj2ids301apsp674b1d26s9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
